@@ -21,7 +21,7 @@ OJ3227 - [LEARNING LOGS] ไพ่ 44 ใบ
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-https://ijudge.it.kmitl.ac.th/submissions/650855/overview
+650855
 ```
 
 สถานะ OJ:
